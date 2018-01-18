@@ -31,7 +31,7 @@ app.get('/', function getState(req,res,next){
     res.sendfile('public/list.html')
 })
 
-app.get('/add', function getState(req,res,next){
+app.get('a/dd', function getState(req,res,next){
     res.setHeader('Content-Type', 'text/html');
     res.sendfile('public/add.html')
 })
