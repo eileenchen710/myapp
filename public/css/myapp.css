@@ -49,6 +49,7 @@
 
 
 
+
 .top {
 	      margin-top: 50px;
         height: 200px;
@@ -205,6 +206,9 @@
 	outline:none;
 }
 
+.copyright{
+	text-align: center;
+}
 
 
 .scene path {
